@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently studying the **Mention in Information Technologies and Human-Computer Interaction(HCI).**
 
+- 🔭 I’m currently learning HTML5 and CSS.
+
 - 📫 How to reach me **poltri02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
